@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body {
+    background-color: #352f44;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.card img {
+    display: flex;
+    height: 300px;
+    width: 200px;
+    box-shadow: rgba(243, 163, 51, 0.4) 0px 5px,  rgba(243, 163, 51, 0.3) 0px 10px, rgba(243, 163, 51, 0.2) 0px 15px, rgba(243, 163, 51, 0.1) 0px 20px, rgba(243, 163, 51, 0.05) 0px 25px;
+    transform:perspective(800px) rotateY(25deg);
+    margin-top: 250px;
+    transition:0.5s
+}
+
+.card img:hover{
+    transform: translateY(-25px) perspective(800px) rotateY(0deg);
+    
+    opacity:1;
+}

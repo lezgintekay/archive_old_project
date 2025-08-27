@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="new_account_create">Yeni Hesap Oluştur</string>
+    <string name="i_have_account">Hesabım Var</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="login">Lütfen Hesabınızla Giriş Yapınız</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

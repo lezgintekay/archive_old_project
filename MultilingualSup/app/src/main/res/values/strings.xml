@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLanguageSup</string>
+    <string name="text">HELLO</string>
+    <string name="button">NEXT</string>
+</resources>
